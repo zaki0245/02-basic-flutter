@@ -1,3 +1,8 @@
+note : saya mengerjakan praktikum dan tugas sendiri dan mengerti apa yang telah saya kerjakan dalam tugas yang diberikan
+
+MI2F MUHAMMAD ZAKI 2031710106
+praktikum dan tugas
+
 text widget
 ![Screenshot (35)](https://user-images.githubusercontent.com/89893117/155471376-ebbcf766-5809-4eaa-a8bb-853c2ae63f50.png)
 image widget
@@ -39,3 +44,7 @@ ListView
 ![Screenshot (55)](https://user-images.githubusercontent.com/89893117/155475428-37706cd6-ce62-439e-a2c6-17967a27155d.png)
  GridView
 ![Screenshot (56)](https://user-images.githubusercontent.com/89893117/155475434-1e51bca0-5c8c-41f3-99b3-6d227ed8e35f.png)
+
+TUGAS
+![Screenshot (61)](https://user-images.githubusercontent.com/89893117/155477699-e7f22209-560c-460d-831b-74e22a5a295e.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/89893117/155477710-e65d15f7-51ae-402a-87b7-0d1a99fce20d.png)
