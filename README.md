@@ -1,6 +1,9 @@
 note : saya mengerjakan praktikum dan tugas sendiri dan mengerti apa yang telah saya kerjakan dalam tugas yang diberikan
 
-MI2F MUHAMMAD ZAKI 2031710106
+MUHAMMAD ZAKI 
+MI2F 
+2031710106
+
 praktikum dan tugas
 
 text widget
