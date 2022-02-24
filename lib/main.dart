@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.redAccent,
         appBar: AppBar(
           backgroundColor: Colors.redAccent,
-          title: Text("MyApps"),
+          title: Text("MyApps MUHAMMAD ZAKI"),
         ),
         body: ListView(
           children: <Widget>[
